@@ -9,6 +9,7 @@ public:
 public:
     Volume()
     {
+        cout << "\nDefault Constructor:\n";
         cout << "Enter length, breadth and height: ";
         cin >> l >> b >> h;
     }
@@ -22,7 +23,7 @@ public:
 
     void display()
     {
-        cout << "\nVolume of cuboid: " << l * b * h;
+        cout << "Volume of cuboid: " << l * b * h;
     }
 };
 
@@ -30,12 +31,11 @@ int main()
 {
     Volume v1, v2(2, 3, 5);
 
-    cout << "\nDefault Constructor:";
     v1.display();
 
     cout << endl;
 
-    cout << "\nParameterised Constructor:";
+    cout << "\nParameterised Constructor:\n";
     v2.display();
     cout << endl;
 }
