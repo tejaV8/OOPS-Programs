@@ -17,8 +17,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejaV8&label=Repo+Views&style=for-the-badge&color=blue"/>
+
+  <a href="https://github.com/tejaV8/OOPS-Programs">
+    <img src="https://hits.dwyl.com/tejaV8/OOPS-Programs.svg?style=for-the-badge&show=unique" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=tejaV8&label=TOTAL+VIEWS&style=for-the-badge&color=blue"/>
+
 </p>
+
+
 
 
 ---
