@@ -34,7 +34,7 @@ int main(){
     int n;
     cout<<"Enter number of names: ";
     cin>>n;
-    cin.ignore();  // This is important to clear input buffer for getline()
+    cin.ignore();
 
     SortNames arr[n];
 
