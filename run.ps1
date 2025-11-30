@@ -16,6 +16,7 @@ $exe = "bin\$name.exe"
 
 g++ $src.FullName -o $exe
 
+
 if ($LASTEXITCODE -eq 0) {
     & $exe
 } else {
