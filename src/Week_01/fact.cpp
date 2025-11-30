@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    
     int choice, n;
     long long fact;
 
