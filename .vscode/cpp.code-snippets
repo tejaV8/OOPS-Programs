@@ -1,0 +1,24 @@
+{
+  "C++ Boilerplate": {
+    "prefix": "cppclass",
+    "body": [
+      "#include <iostream>",
+      
+      "using namespace std;",
+      "",
+      "class ${1:ClassName} {",
+      "",
+      "    ${2: // Your class members here}",
+      "",
+      "};",
+      "",
+      "int main() {",
+      "",
+      "    ${3:// Your code here}",
+      "",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Basic C++ boilerplate for your week-wise programs"
+  }
+}
