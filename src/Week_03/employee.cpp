@@ -11,15 +11,16 @@ public:
 
     void setDetails()
     {
-        cout << "Enter employee name: ";
         cin.ignore();
+
+        cout << "Enter employee name: ";
         getline(cin, ename);
 
         cout << "Enter employee ID: ";
         cin >> eid;
+        cin.ignore();
 
         cout << "Enter designation: ";
-        cin.ignore();
         getline(cin, desig);
 
         cout << "Enter experience: ";
@@ -41,12 +42,11 @@ public:
 
     void profile()
     {
-        cout << "\n--Employee profile--\n";
-        cout << "Employee ID: " << eid << endl;
-        cout << "Name: " << ename << endl;
-        cout << "Designation: " << desig << endl;
-        cout << "Experience: " << exp << endl;
-        cout << "Updated Salary: " << salary << endl;
+        cout << "\nEmployee ID: " << eid
+             << "\tName: " << ename
+             << "\tDesignation: " << desig
+             << "\tExperience: " << exp
+             << "\tUpdated Salary: " << salary << endl;
     }
 };
 
