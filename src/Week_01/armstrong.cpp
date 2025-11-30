@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    
     int num, original, digit, count = 0;
     int sum = 0;
 
