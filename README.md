@@ -10,10 +10,16 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/github/languages/top/bhanuTeja8/OOPS-Programs?style=for-the-badge" alt="Language Badge"/>
-  <img src="https://img.shields.io/github/stars/bhanuTeja8/OOPS-Programs?style=for-the-badge" alt="Stars Badge"/>
-  <img src="https://img.shields.io/github/forks/bhanuTeja8/OOPS-Programs?style=for-the-badge" alt="Forks Badge"/>
+  <img src="https://img.shields.io/github/languages/top/tejaV8/OOPS-Programs?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/tejaV8/OOPS-Programs?style=for-the-badge&color=yellow"/>
+  <img src="https://img.shields.io/github/forks/tejaV8/OOPS-Programs?style=for-the-badge&color=brightgreen"/>
+  <img src="https://img.shields.io/github/issues/tejaV8/OOPS-Programs?style=for-the-badge&color=orange"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejaV8&label=Repo+Views&style=for-the-badge&color=blue"/>
+</p>
+
 
 ---
 
@@ -94,6 +100,18 @@ If you find a bug or want to request a feature:
 - Open an [issue here](https://github.com/bhanuTeja8/OOPS-Programs/issues)
 - Describe the problem clearly
 - Attach code snippets, screenshots, or errors if possible
+  
+---
+<h2 align="center">🌟 Enjoying the project? Show some love!</h2>
+
+<p align="center">
+  <a href="https://github.com/tejaV8/OOPS-Programs/stargazers">
+    <img src="https://img.shields.io/badge/Click_To_Star-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center"><i>Stars help my work reach more learners like you 💛</i></p>
+
 
 ---
 
