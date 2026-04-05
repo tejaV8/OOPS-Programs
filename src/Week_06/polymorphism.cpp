@@ -3,17 +3,17 @@ using namespace std;
 
 class A
 {
-    int x, y;
-
 public:
-    void set()
+    virtual void set()
     {
+        int x, y;
         cout << "Enter x and y: ";
         cin >> x >> y;
     }
-    void display()
+
+    virtual void display()
     {
-        cout << "x = " << x << ", y = " << y << endl;
+        cout << "Base class display" << endl;
     }
 };
 
@@ -22,12 +22,13 @@ class B : public A
     int a, b;
 
 public:
-    void set()
+    void set() override
     {
         cout << "Enter a and b: ";
         cin >> a >> b;
     }
-    void display()
+
+    void display() override
     {
         cout << "a = " << a << ", b = " << b << endl;
     }
@@ -35,11 +36,13 @@ public:
 
 int main()
 {
-    A a;
-    B b;
+    A *ptr;
+    B obj;
 
-    b.set();
-    b.A::set();
-    b.display();
-    b.A::display();
+    ptr = &obj;
+
+    ptr->set();
+    ptr->display(); 
+
+    return 0;
 }

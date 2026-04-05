@@ -1,0 +1,219 @@
+
+===== RACE 1 =====
+
+Top 10 Finishers:
+1. Verstappen (Red Bull)
+2. Alonso (Aston Martin)
+3. Leclerc (Ferrari)
+4. Hamilton (Ferrari)
+5. Sainz (Williams)
+6. Piastri (McLaren)
+7. Perez (Cadillac)
+8. Norris (McLaren)
+9. Russell (Mercedes)
+10. Hulkenberg (Audi)
+
+=== CONSTRUCTORS ===
+Red Bull - 25 pts
+Ferrari - 27 pts
+Mercedes - 2 pts
+McLaren - 12 pts
+Aston Martin - 18 pts
+Alpine - 0 pts
+Williams - 10 pts
+Audi - 1 pts
+Haas - 0 pts
+RB - 0 pts
+Cadillac - 6 pts
+
+===== RACE 2 =====
+
+Top 10 Finishers:
+1. Norris (McLaren)
+2. Verstappen (Red Bull)
+3. Hamilton (Ferrari)
+4. Leclerc (Ferrari)
+5. Russell (Mercedes)
+6. Antonelli (Mercedes)
+7. Alonso (Aston Martin)
+8. Albon (Williams)
+9. Ocon (Haas)
+10. Piastri (McLaren)
+
+=== CONSTRUCTORS ===
+Red Bull - 43 pts
+Ferrari - 54 pts
+Mercedes - 20 pts
+McLaren - 38 pts
+Aston Martin - 24 pts
+Alpine - 0 pts
+Williams - 14 pts
+Audi - 1 pts
+Haas - 2 pts
+RB - 0 pts
+Cadillac - 6 pts
+
+===== RACE 3 =====
+
+Top 10 Finishers:
+1. Leclerc (Ferrari)
+2. Verstappen (Red Bull)
+3. Hadjar (Red Bull)
+4. Alonso (Aston Martin)
+5. Piastri (McLaren)
+6. Sainz (Williams)
+7. Russell (Mercedes)
+8. Norris (McLaren)
+9. Antonelli (Mercedes)
+10. Hulkenberg (Audi)
+
+=== CONSTRUCTORS ===
+Red Bull - 76 pts
+Ferrari - 79 pts
+Mercedes - 28 pts
+McLaren - 52 pts
+Aston Martin - 36 pts
+Alpine - 0 pts
+Williams - 22 pts
+Audi - 2 pts
+Haas - 2 pts
+RB - 0 pts
+Cadillac - 6 pts
+
+===== RACE 4 =====
+
+Top 10 Finishers:
+1. Russell (Mercedes)
+2. Verstappen (Red Bull)
+3. Hamilton (Ferrari)
+4. Norris (McLaren)
+5. Sainz (Williams)
+6. Lawson (RB)
+7. Albon (Williams)
+8. Gasly (Alpine)
+9. Piastri (McLaren)
+10. Alonso (Aston Martin)
+
+=== CONSTRUCTORS ===
+Red Bull - 94 pts
+Ferrari - 94 pts
+Mercedes - 53 pts
+McLaren - 66 pts
+Aston Martin - 37 pts
+Alpine - 4 pts
+Williams - 38 pts
+Audi - 2 pts
+Haas - 2 pts
+RB - 8 pts
+Cadillac - 6 pts
+
+===== RACE 5 =====
+
+Top 10 Finishers:
+1. Hamilton (Ferrari)
+2. Leclerc (Ferrari)
+3. Russell (Mercedes)
+4. Verstappen (Red Bull)
+5. Norris (McLaren)
+6. Sainz (Williams)
+7. Albon (Williams)
+8. Alonso (Aston Martin)
+9. Bearman (Haas)
+10. Antonelli (Mercedes)
+
+=== CONSTRUCTORS ===
+Red Bull - 106 pts
+Ferrari - 137 pts
+Mercedes - 69 pts
+McLaren - 76 pts
+Aston Martin - 41 pts
+Alpine - 4 pts
+Williams - 52 pts
+Audi - 2 pts
+Haas - 4 pts
+RB - 8 pts
+Cadillac - 6 pts
+
+===== RACE 6 =====
+
+Top 10 Finishers:
+1. Verstappen (Red Bull)
+2. Leclerc (Ferrari)
+3. Russell (Mercedes)
+4. Hamilton (Ferrari)
+5. Hadjar (Red Bull)
+6. Norris (McLaren)
+7. Perez (Cadillac)
+8. Piastri (McLaren)
+9. Albon (Williams)
+10. Sainz (Williams)
+
+=== CONSTRUCTORS ===
+Red Bull - 141 pts
+Ferrari - 167 pts
+Mercedes - 84 pts
+McLaren - 88 pts
+Aston Martin - 41 pts
+Alpine - 4 pts
+Williams - 55 pts
+Audi - 2 pts
+Haas - 4 pts
+RB - 8 pts
+Cadillac - 12 pts
+
+===== RACE 7 =====
+
+Top 10 Finishers:
+1. Verstappen (Red Bull)
+2. Russell (Mercedes)
+3. Hamilton (Ferrari)
+4. Alonso (Aston Martin)
+5. Hadjar (Red Bull)
+6. Leclerc (Ferrari)
+7. Norris (McLaren)
+8. Gasly (Alpine)
+9. Perez (Cadillac)
+10. Piastri (McLaren)
+
+=== CONSTRUCTORS ===
+Red Bull - 176 pts
+Ferrari - 190 pts
+Mercedes - 102 pts
+McLaren - 95 pts
+Aston Martin - 53 pts
+Alpine - 8 pts
+Williams - 55 pts
+Audi - 2 pts
+Haas - 4 pts
+RB - 8 pts
+Cadillac - 14 pts
+
+===== RACE 8 =====
+
+Top 10 Finishers:
+1. Verstappen (Red Bull)
+2. Sainz (Williams)
+3. Leclerc (Ferrari)
+4. Piastri (McLaren)
+5. Hadjar (Red Bull)
+6. Alonso (Aston Martin)
+7. Norris (McLaren)
+8. Russell (Mercedes)
+9. Hamilton (Ferrari)
+10. Hulkenberg (Audi)
+
+=== CONSTRUCTORS ===
+Red Bull - 211 pts
+Ferrari - 207 pts
+Mercedes - 106 pts
+McLaren - 113 pts
+Aston Martin - 61 pts
+Alpine - 8 pts
+Williams - 73 pts
+Audi - 3 pts
+Haas - 4 pts
+RB - 8 pts
+Cadillac - 14 pts
+
+DRIVER CHAMPION: Verstappen
+CONSTRUCTOR CHAMPION: Red Bull

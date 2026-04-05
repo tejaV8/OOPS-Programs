@@ -2,10 +2,11 @@
 #include <string>
 using namespace std;
 
-class Event {
+class Event
+{
     static int count, Max_events;
     string ename, venue;
-    
+
 public:
     int eid, no_of_participants;
 
@@ -17,8 +18,10 @@ public:
 int Event::count = 0;
 int Event::Max_events = 10;
 
-void Event::eventRegistration() {
-    if (count >= Max_events) {
+void Event::eventRegistration()
+{
+    if (count >= Max_events)
+    {
         cout << "\nEvent registration full!" << endl;
         return;
     }
@@ -35,31 +38,37 @@ void Event::eventRegistration() {
     count++;
 }
 
-void Event::eventDetails() {
+void Event::eventDetails()
+{
     cout << "\nEvent Name: " << ename << endl;
     cout << "Venue: " << venue << endl;
     cout << "Event ID: " << eid << endl;
     cout << "Participants: " << no_of_participants << endl;
 }
 
-void Event::eventCount() {
+void Event::eventCount()
+{
     cout << "\nTotal Events Registered: " << count << endl;
 }
 
-int main() {
+int main()
+{
     Event e[100];
     int ch, i = 0;
 
     cout << "Event Management System\n";
 
-    while (1) {
+    while (1)
+    {
         cout << "\n1. Register Event\n2. Show Event Details\n3. Show Total Event Count\n4. Exit\n";
         cout << "Enter choice: ";
         cin >> ch;
 
-        switch (ch) {
+        switch (ch)
+        {
         case 1:
-            if (i >= 100) {
+            if (i >= 100)
+            {
                 cout << "Event storage full!" << endl;
                 break;
             }
@@ -67,8 +76,10 @@ int main() {
             i++;
             break;
 
-        case 2: {
-            if (i == 0) {
+        case 2:
+        {
+            if (i == 0)
+            {
                 cout << "No events to display!\n";
                 break;
             }
@@ -78,8 +89,10 @@ int main() {
             cin >> searchId;
 
             bool found = false;
-            for (int j = 0; j < i; j++) {
-                if (e[j].eid == searchId) {
+            for (int j = 0; j < i; j++)
+            {
+                if (e[j].eid == searchId)
+                {
                     e[j].eventDetails();
                     found = true;
                     break;

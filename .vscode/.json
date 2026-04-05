@@ -1,19 +1,22 @@
 {
-    
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Build C++ to bin",
+            "label": "Run C++",
             "type": "shell",
             "command": "g++",
             "args": [
                 "${file}",
                 "-o",
-                "${workspaceFolder}/bin/${fileBasenameNoExtension}.exe"
+                "${fileDirname}/${fileBasenameNoExtension}.exe",
+                "&&",
+                "${fileDirname}/${fileBasenameNoExtension}.exe"
             ],
-            "group": "build",
-            "problemMatcher": [],
-            "detail": "Compiles the open C++ file and places exe in bin/"
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
         }
     ]
 }

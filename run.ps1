@@ -1,24 +1,26 @@
 param([string]$name)
 
-if (-not $name) {
-    Write-Host "Usage: run <filename-without-.cpp>"
-    exit
-}
-
 $src = Get-ChildItem -Recurse -Filter "$name.cpp" | Select-Object -First 1
 
-if (-not $src) {
-    Write-Host "❌ '$name.cpp' not found"
+if (!$src) {
+    Write-Host "Error: $name.cpp not found!"
     exit
 }
 
-$exe = "bin\$name.exe"
+$binFolder = ".bin"
 
-g++ $src.FullName -o $exe
+if (!(Test-Path $binFolder)) {
+    New-Item -ItemType Directory -Path $binFolder | Out-Null
+}
 
+$output = "$binFolder\$name.exe"
 
-if ($LASTEXITCODE -eq 0) {
-    & $exe
-} else {
-    Write-Host "❌ Compilation failed"
+g++ $src.FullName -o $output
+
+if ($?) {
+    Write-Host "Compiled Successfully!"
+    & $output
+}
+else {
+    Write-Host "Compilation Failed!"
 }

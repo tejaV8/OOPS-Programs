@@ -14,7 +14,6 @@ public:
         this->cid = cid;
         this->bal = bal;
     }
-
     void display()
     {
         cout << acno << "\t" << cid << "\t" << bal << endl;
@@ -34,7 +33,6 @@ public:
         this->cid = cid;
         this->bal = bal;
     }
-
     void display()
     {
         cout << acno << "\t" << cid << "\t" << bal << endl;

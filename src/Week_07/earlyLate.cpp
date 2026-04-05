@@ -4,7 +4,7 @@ using namespace std;
 class Shape
 {
 protected:
-    int result;
+    float result;
 
 public:
     virtual void area() = 0;
@@ -55,6 +55,7 @@ int main()
 
     Shape *ptr;
     Rectangle r;
+
     ptr = &r;
     ptr->area();
     ptr->display();

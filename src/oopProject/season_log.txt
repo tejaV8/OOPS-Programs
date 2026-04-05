@@ -1,0 +1,219 @@
+
+===== RACE 1 =====
+
+Top 10 Finishers:
+1. Leclerc (Ferrari)
+2. Verstappen (Red Bull)
+3. Russell (Mercedes)
+4. Norris (McLaren)
+5. Hamilton (Ferrari)
+6. Hadjar (Red Bull)
+7. Antonelli (Mercedes)
+8. Piastri (McLaren)
+9. Gasly (Alpine)
+10. Perez (Cadillac)
+
+=== CONSTRUCTORS ===
+Red Bull - 26 pts | Budget: 100
+Ferrari - 35 pts | Budget: 100
+Mercedes - 21 pts | Budget: 100
+McLaren - 16 pts | Budget: 100
+Aston Martin - 0 pts | Budget: 100
+Alpine - 2 pts | Budget: 100
+Williams - 0 pts | Budget: 100
+Audi - 0 pts | Budget: 100
+Haas - 0 pts | Budget: 100
+RB - 0 pts | Budget: 100
+Cadillac - 1 pts | Budget: 100
+
+===== RACE 2 =====
+
+Top 10 Finishers:
+1. Hamilton (Ferrari)
+2. Leclerc (Ferrari)
+3. Verstappen (Red Bull)
+4. Russell (Mercedes)
+5. Norris (McLaren)
+6. Piastri (McLaren)
+7. Alonso (Aston Martin)
+8. Hadjar (Red Bull)
+9. Bottas (Cadillac)
+10. Stroll (Aston Martin)
+
+=== CONSTRUCTORS ===
+Red Bull - 45 pts | Budget: 100
+Ferrari - 78 pts | Budget: 100
+Mercedes - 33 pts | Budget: 100
+McLaren - 34 pts | Budget: 100
+Aston Martin - 7 pts | Budget: 100
+Alpine - 2 pts | Budget: 100
+Williams - 0 pts | Budget: 100
+Audi - 0 pts | Budget: 100
+Haas - 0 pts | Budget: 100
+RB - 0 pts | Budget: 100
+Cadillac - 3 pts | Budget: 100
+
+===== RACE 3 =====
+
+Top 10 Finishers:
+1. Verstappen (Red Bull)
+2. Norris (McLaren)
+3. Hadjar (Red Bull)
+4. Leclerc (Ferrari)
+5. Antonelli (Mercedes)
+6. Hamilton (Ferrari)
+7. Russell (Mercedes)
+8. Piastri (McLaren)
+9. Alonso (Aston Martin)
+10. Lawson (RB)
+
+=== CONSTRUCTORS ===
+Red Bull - 85 pts | Budget: 100
+Ferrari - 98 pts | Budget: 100
+Mercedes - 49 pts | Budget: 100
+McLaren - 56 pts | Budget: 100
+Aston Martin - 9 pts | Budget: 100
+Alpine - 2 pts | Budget: 100
+Williams - 0 pts | Budget: 100
+Audi - 0 pts | Budget: 100
+Haas - 0 pts | Budget: 100
+RB - 1 pts | Budget: 100
+Cadillac - 3 pts | Budget: 100
+
+===== RACE 4 =====
+
+Top 10 Finishers:
+1. Norris (McLaren)
+2. Leclerc (Ferrari)
+3. Russell (Mercedes)
+4. Verstappen (Red Bull)
+5. Sainz (Williams)
+6. Hamilton (Ferrari)
+7. Piastri (McLaren)
+8. Alonso (Aston Martin)
+9. Lawson (RB)
+10. Hadjar (Red Bull)
+
+=== CONSTRUCTORS ===
+Red Bull - 98 pts | Budget: 100
+Ferrari - 124 pts | Budget: 100
+Mercedes - 64 pts | Budget: 100
+McLaren - 87 pts | Budget: 100
+Aston Martin - 13 pts | Budget: 100
+Alpine - 2 pts | Budget: 100
+Williams - 10 pts | Budget: 100
+Audi - 0 pts | Budget: 100
+Haas - 0 pts | Budget: 100
+RB - 3 pts | Budget: 100
+Cadillac - 3 pts | Budget: 100
+
+===== RACE 5 =====
+
+Top 10 Finishers:
+1. Verstappen (Red Bull)
+2. Leclerc (Ferrari)
+3. Norris (McLaren)
+4. Russell (Mercedes)
+5. Piastri (McLaren)
+6. Sainz (Williams)
+7. Antonelli (Mercedes)
+8. Lawson (RB)
+9. Alonso (Aston Martin)
+10. Bearman (Haas)
+
+=== CONSTRUCTORS ===
+Red Bull - 123 pts | Budget: 100
+Ferrari - 142 pts | Budget: 100
+Mercedes - 82 pts | Budget: 100
+McLaren - 112 pts | Budget: 100
+Aston Martin - 15 pts | Budget: 100
+Alpine - 2 pts | Budget: 100
+Williams - 18 pts | Budget: 100
+Audi - 0 pts | Budget: 100
+Haas - 1 pts | Budget: 100
+RB - 7 pts | Budget: 100
+Cadillac - 3 pts | Budget: 100
+
+===== RACE 6 =====
+
+Top 10 Finishers:
+1. Hamilton (Ferrari)
+2. Leclerc (Ferrari)
+3. Piastri (McLaren)
+4. Alonso (Aston Martin)
+5. Norris (McLaren)
+6. Russell (Mercedes)
+7. Verstappen (Red Bull)
+8. Hadjar (Red Bull)
+9. Albon (Williams)
+10. Antonelli (Mercedes)
+
+=== CONSTRUCTORS ===
+Red Bull - 133 pts | Budget: 100
+Ferrari - 185 pts | Budget: 100
+Mercedes - 91 pts | Budget: 100
+McLaren - 137 pts | Budget: 100
+Aston Martin - 27 pts | Budget: 100
+Alpine - 2 pts | Budget: 100
+Williams - 20 pts | Budget: 100
+Audi - 0 pts | Budget: 100
+Haas - 1 pts | Budget: 100
+RB - 7 pts | Budget: 100
+Cadillac - 3 pts | Budget: 100
+
+===== RACE 7 =====
+
+Top 10 Finishers:
+1. Verstappen (Red Bull)
+2. Piastri (McLaren)
+3. Leclerc (Ferrari)
+4. Hadjar (Red Bull)
+5. Hamilton (Ferrari)
+6. Antonelli (Mercedes)
+7. Alonso (Aston Martin)
+8. Sainz (Williams)
+9. Russell (Mercedes)
+10. Hulkenberg (Audi)
+
+=== CONSTRUCTORS ===
+Red Bull - 170 pts | Budget: 100
+Ferrari - 210 pts | Budget: 100
+Mercedes - 101 pts | Budget: 100
+McLaren - 155 pts | Budget: 100
+Aston Martin - 33 pts | Budget: 100
+Alpine - 2 pts | Budget: 100
+Williams - 24 pts | Budget: 100
+Audi - 1 pts | Budget: 100
+Haas - 1 pts | Budget: 100
+RB - 7 pts | Budget: 100
+Cadillac - 3 pts | Budget: 100
+
+===== RACE 8 =====
+
+Top 10 Finishers:
+1. Verstappen (Red Bull)
+2. Norris (McLaren)
+3. Leclerc (Ferrari)
+4. Hamilton (Ferrari)
+5. Antonelli (Mercedes)
+6. Russell (Mercedes)
+7. Alonso (Aston Martin)
+8. Sainz (Williams)
+9. Hadjar (Red Bull)
+10. Piastri (McLaren)
+
+=== CONSTRUCTORS ===
+Red Bull - 197 pts | Budget: 100
+Ferrari - 237 pts | Budget: 100
+Mercedes - 119 pts | Budget: 100
+McLaren - 174 pts | Budget: 100
+Aston Martin - 39 pts | Budget: 100
+Alpine - 2 pts | Budget: 100
+Williams - 28 pts | Budget: 100
+Audi - 1 pts | Budget: 100
+Haas - 1 pts | Budget: 100
+RB - 7 pts | Budget: 100
+Cadillac - 3 pts | Budget: 100
+
+DRIVER CHAMPION: Verstappen
+CONSTRUCTOR CHAMPION: Ferrari
